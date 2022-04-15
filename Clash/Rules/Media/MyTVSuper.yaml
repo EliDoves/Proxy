@@ -1,0 +1,7 @@
+payload:  
+  # > myTV_SUPER
+  # - User-Agent,mytv*
+  - DOMAIN,mytvsuperlimited.hb.omtrdc.net
+  - DOMAIN,mytvsuperlimited.sc.omtrdc.net
+  - DOMAIN-SUFFIX,mytvsuper.com
+  - DOMAIN-SUFFIX,tvb.com

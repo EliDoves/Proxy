@@ -1,0 +1,8 @@
+payload:
+  - DOMAIN,assets.getpocket.com
+  - DOMAIN,d.getpocket.com
+  - DOMAIN,pocket-image-cache.com
+  - DOMAIN,blog.getpocket.com
+  - DOMAIN,blog-assets.getpocket.com
+  - DOMAIN-SUFFIX,getpocket.com
+  - DOMAIN-SUFFIX,pocketusercache.com

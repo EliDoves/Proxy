@@ -1,0 +1,10 @@
+payload:  
+  # > HBO Max
+  - DOMAIN-SUFFIX,hbo.com
+  - DOMAIN-SUFFIX,hbogo.com
+  - DOMAIN-SUFFIX,hbonow.com
+  - DOMAIN-SUFFIX,hbomax.com
+  - DOMAIN,hbomax-images.warnermediacdn.com
+  - DOMAIN-SUFFIX,cinemax.com
+  - DOMAIN-SUFFIX,hbomaxcdn.com
+  - DOMAIN-SUFFIX,maxgo.com

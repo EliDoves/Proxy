@@ -1,0 +1,17 @@
+user-agent,OneDrive*,OneDrive
+user-agent,OneDriveiOSApp*,OneDrive
+host-suffix,1drv.com,OneDrive
+host-suffix,livefilestore.com,OneDrive
+host-suffix,oneclient.sfx.ms,OneDrive
+host-suffix,onedrive.com,OneDrive
+host-suffix,onedrive.live.com,OneDrive
+host-suffix,photos.live.com,OneDrive
+host-suffix,sharepoint.com,OneDrive
+host-suffix,sharepointonline.com,OneDrive
+host-suffix,skydrive.wns.windows.com,OneDrive
+host-suffix,spoprod-a.akamaihd.net,OneDrive
+host-suffix,storage.live.com,OneDrive
+host-suffix,storage.msn.com,OneDrive
+host-keyword,1drv,OneDrive
+host-keyword,onedrive,OneDrive
+host-keyword,skydrive,OneDrive

@@ -1,0 +1,9 @@
+# 需要通过代理访问，已全部包含在apple list中
+# Apple News
+USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*
+DOMAIN,news-assets.apple.com
+DOMAIN,news-client.apple.com
+DOMAIN,news-edge.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN-SUFFIX,apple.news

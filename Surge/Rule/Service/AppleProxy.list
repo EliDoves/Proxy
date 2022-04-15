@@ -1,0 +1,15 @@
+# 需要代理 已全部包含在apple list中
+DOMAIN,api-glb-sea.smoot.apple.com
+DOMAIN,books.itunes.apple.com
+DOMAIN,cvws.icloud-content.com
+DOMAIN,developer.apple.com
+DOMAIN,hls.itunes.apple.com
+DOMAIN,lookup-api.apple.com
+DOMAIN,sandbox.itunes.apple.com
+DOMAIN,testflight.apple.com
+DOMAIN-SUFFIX,phobos.apple.com
+DOMAIN-SUFFIX,appsto.re
+DOMAIN-SUFFIX,radio.itunes.apple.com
+DOMAIN-SUFFIX,radio-activity.itunes.apple.com
+DOMAIN-SUFFIX,radio-services.itunes.apple.com
+DOMAIN-SUFFIX,itunesu.assets.itunes.com

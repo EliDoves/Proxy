@@ -1,0 +1,6 @@
+payload:
+  # > GYAO！
+  - PROCESS-NAME,jp.co.yahoo.gyao.android.app
+  - DOMAIN-SUFFIX,yahoo.co.jp
+  - DOMAIN-SUFFIX,yimg.jp
+  - DOMAIN-SUFFIX,yahooapis.jp

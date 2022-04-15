@@ -1,0 +1,5 @@
+payload:
+  # > Friday Video
+  - PROCESS-NAME,net.fetnet.fetvod
+  - DOMAIN-SUFFIX,friday.tw
+  - DOMAIN-SUFFIX,fetnet.net

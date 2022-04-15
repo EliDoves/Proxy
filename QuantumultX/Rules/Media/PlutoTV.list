@@ -1,0 +1,13 @@
+# Plutotv
+user-agent,Pluto%20TV*,Pluto TV
+host,static-homepage-en.pluto.tv,Pluto TV
+host,siloh.pluto.tv,Pluto TV
+host,boot.pluto.tv,Pluto TV
+host,s.pluto.tv,Pluto TV
+host,service-channels.clusters.pluto.tv,Pluto TV
+host,api.pluto.tv,Pluto TV
+host,mages.pluto.tv,Pluto TV
+host,service-stitcher.clusters.pluto.tv,Pluto TV
+host,plutotv.zendesk.com,Pluto TV
+host,corporate.pluto.tv,Pluto TV
+host-suffix,pluto.tv,Pluto TV

@@ -1,0 +1,17 @@
+ # > HBO Asia
+user-agent,HBO%20GO%20PROD%20HKG*,HBO Asia
+user-agent,HBOAsia*,HBO,HBO Asia
+host-suffix,hboasia.com,HBO Asia
+host-suffix,hboasia1-i.akamaihd.net,HBO Asia
+host-suffix,hboasia2-i.akamaihd.net,HBO Asia
+host-suffix,hboasia3-i.akamaihd.net,HBO Asia
+host-suffix,hboasia4-i.akamaihd.net,HBO Asia
+host-suffix,hboasia5-i.akamaihd.net,HBO Asia
+host-suffix,hbogo.com,HBO Asia
+host-suffix,hbogoasia.com,HBO Asia
+host-suffix,hbogoasia.hk,HBO Asia
+host-suffix,hbomaxcdn.com,HBO Asia
+host-suffix,now-ashare.com,HBO Asia
+host-suffix,now-tv.com,HBO Asia
+host-suffix,now.com.hk,HBO Asia
+host-suffix,nowe.com,HBO Asia

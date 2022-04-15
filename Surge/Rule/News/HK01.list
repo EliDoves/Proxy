@@ -1,0 +1,22 @@
+# hk01
+DOMAIN,video-api.hk01.com
+DOMAIN,app-cur.api.hk01.com
+DOMAIN,pua-media-api.hk01.com
+DOMAIN,prod-comment-api.dwnews.com
+DOMAIN,prod-account-status-api.hk01.com
+DOMAIN,track.hk01.com
+DOMAIN,asp-public-service.hk01.com
+DOMAIN,messages01.hk01.com
+DOMAIN,hk01-site-gateway.hk01.com
+DOMAIN,prod-dw-php-hk01comment.dwnews.com
+DOMAIN,app-data.api.hk01.com
+DOMAIN,social-reaction-api.hk01.com
+DOMAIN,rcfg-api.hk01.com
+DOMAIN,app-me.api.hk01.com
+DOMAIN,cdn.hk01.com
+DOMAIN,web-data.api.hk01.com
+DOMAIN,sso.hk01.com
+DOMAIN,asp-public-service.hk01.com
+DOMAIN,vdo.cdn.hk01.com
+DOMAIN,opentalk.hk01.com
+DOMAIN-SUFFIX,hk01.com

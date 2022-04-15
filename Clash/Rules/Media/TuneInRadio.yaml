@@ -1,0 +1,13 @@
+payload:
+  # Tuneln Radio
+  - DOMAIN-SUFFIX,tunein.com
+  - DOMAIN,opml.radiotime.com  
+  - DOMAIN,geolocation.onetrust.com
+  - DOMAIN,tuneinhls.streamguys1.com
+
+
+
+
+
+
+

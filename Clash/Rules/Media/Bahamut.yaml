@@ -1,0 +1,10 @@
+payload:
+  # > 動畫瘋
+  # user-agent,Anime*
+  - PROCESS-NAME,tw.com.gamer.android.animad
+  - PROCESS-NAME,tw.com.gamer.android.activecenter  
+  - DOMAIN,gamer-cds.cdn.hinet.net
+  - DOMAIN,gamer2-cds.cdn.hinet.net
+  - DOMAIN-SUFFIX,bahamut.com.tw
+  - DOMAIN-SUFFIX,gamer.com.tw
+  - DOMAIN-SUFFIX,hinet.net
