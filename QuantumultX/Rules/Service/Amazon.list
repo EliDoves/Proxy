@@ -1,4 +1,3 @@
-# > Amazon,Amazon
 USER-AGENT,InstantVideo.US*,Amazon
 USER-AGENT,Prime%20Video*,Amazon
 HOST,d1v5ir2lpwr8os.cloudfront.net,Amazon
@@ -6,6 +5,8 @@ HOST,d22qjgkvxw22r6.cloudfront.net,Amazon
 HOST,d25xi40x97liuc.cloudfront.net,Amazon
 HOST,d27xxe7juh1us6.cloudfront.net,Amazon
 HOST,dmqdd6hw24ucf.cloudfront.net,Amazon
+HOST-SUFFIX,atv-ps.amazon.com,Amazon
+HOST-SUFFIX,fls-na.amazon.com,Amazon
 HOST-SUFFIX,a2z.com,Amazon
 HOST-SUFFIX,aboutamazon.cn,Amazon
 HOST-SUFFIX,aboutamazon.co.uk,Amazon
@@ -58,6 +59,7 @@ HOST-SUFFIX,amazonauthorinsights.com,Amazon
 HOST-SUFFIX,amazonaws-china.com,Amazon
 HOST-SUFFIX,amazonaws.co.uk,Amazon
 HOST-SUFFIX,amazonaws.com,Amazon
+HOST-SUFFIX,amazonaws.com.cn,Amazon
 HOST-SUFFIX,amazonaws.tv,Amazon
 HOST-SUFFIX,amazonbusiness.cn,Amazon
 HOST-SUFFIX,amazonbusiness.com.cn,Amazon
@@ -102,7 +104,6 @@ HOST-SUFFIX,amzn.to,Amazon
 HOST-SUFFIX,amznl.com,Amazon
 HOST-SUFFIX,assoc-amazon.cn,Amazon
 HOST-SUFFIX,associates-amazon.com,Amazon
-HOST-SUFFIX,atv-ps.amazon.com,Amazon
 HOST-SUFFIX,audible.com,Amazon
 HOST-SUFFIX,avodmp4s3ww-a.akamaihd.net,Amazon
 HOST-SUFFIX,aws,Amazon
@@ -110,6 +111,7 @@ HOST-SUFFIX,aws-iot-hackathon.com,Amazon
 HOST-SUFFIX,awsautopilot.com,Amazon
 HOST-SUFFIX,awsautoscaling.com,Amazon
 HOST-SUFFIX,awsbraket.com,Amazon
+HOST-SUFFIX,awscloud.com,Amazon
 HOST-SUFFIX,awscommandlineinterface.com,Amazon
 HOST-SUFFIX,awsedstart.com,Amazon
 HOST-SUFFIX,awseducate.com,Amazon
@@ -120,6 +122,7 @@ HOST-SUFFIX,awsloft-stockholm.com,Amazon
 HOST-SUFFIX,awssecworkshops.com,Amazon
 HOST-SUFFIX,awsstatic.com,Amazon
 HOST-SUFFIX,awsthinkbox.com,Amazon
+HOST-SUFFIX,awstrack.me,Amazon
 HOST-SUFFIX,awstrust.com,Amazon
 HOST-SUFFIX,boxofficemojo.com,Amazon
 HOST-SUFFIX,cdkworkshop.com,Amazon
@@ -127,7 +130,6 @@ HOST-SUFFIX,cloudfront.net,Amazon
 HOST-SUFFIX,containersonaws.com,Amazon
 HOST-SUFFIX,createspace.com,Amazon
 HOST-SUFFIX,elasticbeanstalk.com,Amazon
-HOST-SUFFIX,fls-na.amazon.com,Amazon
 HOST-SUFFIX,gameon-masters.com,Amazon
 HOST-SUFFIX,gdansk-amazon.com,Amazon
 HOST-SUFFIX,images-amazon.com,Amazon
@@ -155,7 +157,6 @@ HOST-SUFFIX,kindleoasis.us,Amazon
 HOST-SUFFIX,kindleoasisnews.com,Amazon
 HOST-SUFFIX,kindleproject.com,Amazon
 HOST-SUFFIX,llnwd.net,Amazon
-# primevideo,Amazon
 HOST-SUFFIX,media-amazon.com,Amazon
 HOST-SUFFIX,media-imdb.com,Amazon
 HOST-SUFFIX,prime-video.com,Amazon
@@ -167,6 +168,7 @@ HOST-SUFFIX,primevideo.com,Amazon
 HOST-SUFFIX,primevideo.info,Amazon
 HOST-SUFFIX,primevideo.org,Amazon
 HOST-SUFFIX,primevideo.tv,Amazon
+HOST-SUFFIX,pv-cdn.net,Amazon
 HOST-SUFFIX,siege-amazon.com,Amazon
 HOST-SUFFIX,ssl-images-amazon.com,Amazon
 HOST-SUFFIX,thinkboxsoftware.com,Amazon
@@ -181,9 +183,7 @@ HOST-SUFFIX,wholeplanetfoundation.org,Amazon
 HOST-SUFFIX,yamaxun.cn,Amazon
 HOST-SUFFIX,yamaxun.com,Amazon
 HOST-SUFFIX,z.cn,Amazon
-# keyword,Amazon
 HOST-KEYWORD,avoddashs,Amazon
-# ip,Amazon
 IP-CIDR,13.32.0.0/15,Amazon
 IP-CIDR,13.35.0.0/17,Amazon
 IP-CIDR,18.184.0.0/15,Amazon
@@ -199,3 +199,4 @@ IP-CIDR,54.156.0.0/14,Amazon
 IP-CIDR,54.226.0.0/15,Amazon
 IP-CIDR,54.230.156.0/22,Amazon
 IP-CIDR,54.93.0.0/16,Amazon
+,Amazon

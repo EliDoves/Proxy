@@ -1,8 +1,10 @@
 # > LineTV
-host,d3c7rimkq79yfu.cloudfront.net,LineTV
-host-suffix,d3c7rimkq79yfu.cloudfront.net,LineTV
-host-suffix,linetv.tw,LineTV
-host-suffix,line-scdn.net,LineTV
-host-suffix,chocotv.com.tw,LineTV
-host-suffix,line-cdn.net,LineTV
-host-suffix,line-scdn.net,LineTV
+USER-AGENT,LINE%20TV*,LineTV
+HOST,d17lx9ucc6k9fc.cloudfront.net,LineTV
+HOST,d3c7rimkq79yfu.cloudfront.net,LineTV
+HOST,d3pgb93pk7bvxj.cloudfront.net,LineTV
+HOST,d3vm9lcxb6xcm4.cloudfront.net,LineTV
+HOST-SUFFIX,chocotv.com.tw,LineTV
+HOST-SUFFIX,line-cdn.net,LineTV
+HOST-SUFFIX,line-scdn.net,LineTV
+HOST-SUFFIX,linetv.tw,LineTV
