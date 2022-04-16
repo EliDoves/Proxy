@@ -4,16 +4,16 @@
 # HOST-SUFFIX,google.ad,Google
 # HOST-SUFFIX,google.ad,Google
 USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*,Google
-USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*,GoogleDrive
+USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*,Google
 USER-AGENT,*com.google.Drive*,Google
-USER-AGENT,*com.google.Drive*,GoogleDrive
+USER-AGENT,*com.google.Drive*,Google
 USER-AGENT,*com.google.ios.youtubemusic*,Google
 USER-AGENT,*youtube*,Google
 USER-AGENT,*YoutubeMusic*,Google
 USER-AGENT,com.google.ios.youtube*,Google
 USER-AGENT,com.google.ios.youtubemusic*,Google
 USER-AGENT,Google.Drive*,Google
-USER-AGENT,Google.Drive*,GoogleDrive
+USER-AGENT,Google.Drive*,Google
 USER-AGENT,Youtube*,Google
 USER-AGENT,YoutubeMusic*,Google
 HOST,alt1-mtalk.google.com,Google
@@ -25,10 +25,10 @@ HOST,alt6-mtalk.google.com,Google
 HOST,alt7-mtalk.google.com,Google
 HOST,alt8-mtalk.google.com,Google
 HOST,lens.l.google.com,Google
-HOST,lens.l.google.com,GoogleVoice
+HOST,lens.l.google.com,Google
 HOST,mtalk.google.com,Google
 HOST,music.youtube.com,Google
-HOST,www.googleapis.com,GoogleDrive
+HOST,www.googleapis.com,Google
 HOST,youtubei.googleapis.com,Google
 HOST,yt3.ggpht.com,Google
 HOST-SUFFIX,.bo,Google
@@ -183,11 +183,11 @@ HOST-SUFFIX,digitalattackmap.com,Google
 HOST-SUFFIX,dl.google.com,Google
 HOST-SUFFIX,dl.l.google.com,Google
 HOST-SUFFIX,docs.google.com,Google
-HOST-SUFFIX,docs.google.com,GoogleDrive
+HOST-SUFFIX,docs.google.com,Google
 HOST-SUFFIX,doubleclick.com,Google
 HOST-SUFFIX,doubleclick.net,Google
 HOST-SUFFIX,drive.google.com,Google
-HOST-SUFFIX,drive.google.com,GoogleDrive
+HOST-SUFFIX,drive.google.com,Google
 HOST-SUFFIX,episodic.com,Google
 HOST-SUFFIX,fastlane.ci,Google
 HOST-SUFFIX,fastlane.tools,Google
@@ -269,7 +269,7 @@ HOST-SUFFIX,googlecompare.co.uk,Google
 HOST-SUFFIX,googledanmark.com,Google
 HOST-SUFFIX,googledomains.com,Google
 HOST-SUFFIX,googledrive.com,Google
-HOST-SUFFIX,googledrive.com,GoogleDrive
+HOST-SUFFIX,googledrive.com,Google
 HOST-SUFFIX,googlee.com,Google
 HOST-SUFFIX,googleearth.com,Google
 HOST-SUFFIX,googlefiber.net,Google
@@ -291,7 +291,7 @@ HOST-SUFFIX,googletagmanager.com,Google
 HOST-SUFFIX,googletagservices.com,Google
 HOST-SUFFIX,googletraveladservices.com,Google
 HOST-SUFFIX,googleusercontent.com,Google
-HOST-SUFFIX,googleusercontent.com,GoogleDrive
+HOST-SUFFIX,googleusercontent.com,Google
 HOST-SUFFIX,googleventures.com,Google
 HOST-SUFFIX,googlevideo.com,Google
 HOST-SUFFIX,googlr.com,Google
@@ -549,5 +549,5 @@ HOST-KEYWORD,gstatic,Google
 HOST-KEYWORD,pa.google,Google
 HOST-KEYWORD,recaptcha,Google
 HOST-KEYWORD,www.google.,Google
-HOST-KEYWORD,www.google.,GoogleSearch
+HOST-KEYWORD,www.google.,Google
 HOST-KEYWORD,youtube,Google
