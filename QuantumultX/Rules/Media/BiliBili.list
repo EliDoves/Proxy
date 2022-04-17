@@ -1,6 +1,9 @@
-USER-AGENT,*bili*,BiliBili
-USER-AGENT,Bilibili*,BiliBili
-USER-AGENT,bili*,BiliBili
+HOST,apm-misaka.biliapi.net,BiliBiliIntl
+HOST,p-bstarstatic.akamaized.net,BiliBiliIntl
+HOST,p.bstarstatic.com,BiliBiliIntl
+HOST,upos-bstar-mirrorakam.akamaized.net,BiliBiliIntl
+HOST,upos-bstar1-mirrorakam.akamaized.net,BiliBiliIntl
+HOST-SUFFIX,biliintl.com,BiliBiliIntl
 HOST,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com,BiliBili
 HOST,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com,BiliBili
 HOST,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com,BiliBili
@@ -111,9 +114,6 @@ IP-CIDR,120.92.108.182/32,BiliBili
 IP-CIDR,120.92.113.99/32,BiliBili
 IP-CIDR,120.92.153.217/32,BiliBili
 IP-CIDR,134.175.207.130/32,BiliBili
-HOST,apm-misaka.biliapi.net,BiliBiliIntl
-HOST,p-bstarstatic.akamaized.net,BiliBiliIntl
-HOST,p.bstarstatic.com,BiliBiliIntl
-HOST,upos-bstar-mirrorakam.akamaized.net,BiliBiliIntl
-HOST,upos-bstar1-mirrorakam.akamaized.net,BiliBiliIntl
-HOST-SUFFIX,biliintl.com,BiliBiliIntl
+USER-AGENT,*bili*,BiliBili
+USER-AGENT,Bilibili*,BiliBili
+USER-AGENT,bili*,BiliBili
