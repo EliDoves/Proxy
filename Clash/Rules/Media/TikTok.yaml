@@ -1,7 +1,5 @@
 payload:
-  - PROCESS-NAME,com.zhiliaoapp.musically
   - DOMAIN,p16-tiktokcdn-com.akamaized.net
-  - DOMAIN-SUFFIX,amemv.com
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,ibytedtos.com
   - DOMAIN-SUFFIX,ibyteimg.com
@@ -17,4 +15,6 @@ payload:
   - DOMAIN-KEYWORD,-tiktokcdn-com
   - DOMAIN-KEYWORD,musical.ly
   - DOMAIN-KEYWORD,tiktok
+  - DOMAIN-KEYWORD,tiktokcdn-
   - DOMAIN-KEYWORD,tiktokv
+  - PROCESS-NAME,com.zhiliaoapp.musically

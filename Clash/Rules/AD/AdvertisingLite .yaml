@@ -1,8 +1,9 @@
-# DOMAIN-KEYWORD: 29
-# DOMAIN-SUFFIX: 15327
-# DOMAIN: 15169
-# IP-CIDR: 192
-# TOTAL: 30717
+#   - DOMAIN-KEYWORD: 29
+#   - DOMAIN-SUFFIX: 15327
+#   - DOMAIN: 15169
+#   - IP-CIDR: 192
+# : 1
+# TOTAL: 30718
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -15173,6 +15174,18 @@ payload:
   - DOMAIN,zzbb1.top
   - DOMAIN,zzomiuob.com
   - DOMAIN,zzsdtzb.com
+  - DOMAIN-KEYWORD,jav
+  - DOMAIN-KEYWORD,porn
+  - DOMAIN-KEYWORD,mdapp1
+  - DOMAIN-SUFFIX,avxvl.com
+  - DOMAIN-SUFFIX,scjav1.com
+  - DOMAIN-SUFFIX,phncdn.com
+  - DOMAIN-SUFFIX,phprcdn.com
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,pornhubpremium.com
+  - DOMAIN-SUFFIX,jable.tv
+  - DOMAIN-SUFFIX,dmm.com
+  - DOMAIN-SUFFIX,xvideos.com
   - DOMAIN-SUFFIX,000dn.com
   - DOMAIN-SUFFIX,001union.com
   - DOMAIN-SUFFIX,0024aaaa.com
@@ -30500,18 +30513,6 @@ payload:
   - DOMAIN-SUFFIX,zzyonghao.com
   - DOMAIN-SUFFIX,zzz7.52896368.com
   - DOMAIN-SUFFIX,zzzzz4.52896368.com
-  - DOMAIN-SUFFIX,avxvl.com
-  - DOMAIN-SUFFIX,scjav1.com
-  - DOMAIN-SUFFIX,phncdn.com
-  - DOMAIN-SUFFIX,phprcdn.com
-  - DOMAIN-SUFFIX,pornhub.com
-  - DOMAIN-SUFFIX,pornhubpremium.com
-  - DOMAIN-SUFFIX,jable.tv
-  - DOMAIN-SUFFIX,dmm.com
-  - DOMAIN-SUFFIX,xvideos.com
-  - DOMAIN-KEYWORD,jav
-  - DOMAIN-KEYWORD,porn
-  - DOMAIN-KEYWORD,mdapp1
   - DOMAIN-KEYWORD,admarvel
   - DOMAIN-KEYWORD,admaster
   - DOMAIN-KEYWORD,adsage

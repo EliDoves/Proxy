@@ -1,6 +1,3 @@
-USER-AGENT,*bili*,BiliBili
-USER-AGENT,Bilibili*,BiliBili
-USER-AGENT,bili*,BiliBili
 HOST,apm-misaka.biliapi.net,BiliBili
 HOST,p-bstarstatic.akamaized.net,BiliBili
 HOST,p.bstarstatic.com,BiliBili
@@ -110,6 +107,9 @@ HOST-SUFFIX,smtcdns.net,BiliBili
 HOST-SUFFIX,upos-hz-mirrorakam.akamaized.net,BiliBili
 HOST-SUFFIX,uposdash-302-bilivideo.yfcdn.net,BiliBili
 HOST-SUFFIX,yo9.com,BiliBili
+USER-AGENT,*bili*,BiliBili
+USER-AGENT,Bilibili*,BiliBili
+USER-AGENT,bili*,BiliBili
 IP-CIDR,106.75.74.76/32,BiliBili
 IP-CIDR,111.206.25.147/32,BiliBili
 IP-CIDR,119.3.238.64/32,BiliBili

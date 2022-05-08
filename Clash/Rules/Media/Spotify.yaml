@@ -1,6 +1,4 @@
 payload:
- # > Spotify
-  - PROCESS-NAME,com.spotify.music
   - DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
   - DOMAIN-SUFFIX,byspotify.com
   - DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
@@ -19,5 +17,5 @@ payload:
   - DOMAIN-SUFFIX,spotifyjobs.com
   - DOMAIN-KEYWORD,-spotify-com
   - DOMAIN-KEYWORD,spotify.com
-  - IP-CIDR,35.186.224.47/32,no-resolve
-
+  - IP-CIDR,35.186.224.47/32
+  - PROCESS-NAME,com.spotify.music
