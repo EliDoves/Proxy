@@ -20,6 +20,7 @@ HOST,aod-ssl.itunes.apple.com,Apple
 HOST,aod.itunes.apple.com,Apple
 HOST,api.smoot.apple.cn,Apple
 HOST,apple-events.akamaized.net,Apple
+HOST,apple.tt.omtrdc.net
 HOST,apple.comscoreresearch.com,Apple
 HOST,apps.apple.com,Apple
 HOST,audio-ssl.itunes.apple.com,Apple
@@ -316,6 +317,8 @@ IP-CIDR,65.199.22.0/23,Apple
 HOST-KEYWORD,apple-support.akadns.net,Apple
 HOST-KEYWORD,apple.com.akadns.net,Apple
 HOST-KEYWORD,apple.com.edgekey.net,Apple
+HOST-KEYWORD,apple.tt.omtrdc.net
+HOST-KEYWORD,appleglobal
 HOST-KEYWORD,icloud,Apple
 HOST-KEYWORD,icloud.com.akadns.net,Apple
 HOST-KEYWORD,icoudo,Apple
