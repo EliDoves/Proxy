@@ -317,8 +317,8 @@ IP-CIDR,65.199.22.0/23,Apple
 HOST-KEYWORD,apple-support.akadns.net,Apple
 HOST-KEYWORD,apple.com.akadns.net,Apple
 HOST-KEYWORD,apple.com.edgekey.net,Apple
-HOST-KEYWORD,apple.tt.omtrdc.net
-HOST-KEYWORD,appleglobal
+HOST-KEYWORD,apple.tt.omtrdc.net,Apple
+HOST-KEYWORD,appleglobal,Apple
 HOST-KEYWORD,icloud,Apple
 HOST-KEYWORD,icloud.com.akadns.net,Apple
 HOST-KEYWORD,icoudo,Apple
