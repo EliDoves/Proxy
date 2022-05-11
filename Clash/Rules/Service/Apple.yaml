@@ -308,7 +308,7 @@ payload:
   - DOMAIN-KEYWORD,apple.com.akadns.net
   - DOMAIN-KEYWORD,apple.com.edgekey.net
   - DOMAIN-KEYWORD,apple.tt.omtrdc.net
-  - DOMAIN_KEYWORD,appleglobal
+  - DOMAIN-KEYWORD,appleglobal
   - DOMAIN-KEYWORD,icloud
   - DOMAIN-KEYWORD,icloud.com.akadns.net
   - DOMAIN-KEYWORD,icoudo
