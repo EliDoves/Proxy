@@ -12,4 +12,4 @@ payload:
   - DOMAIN,kktv-theater.kk.stream
   - DOMAIN-SUFFIX,kkcube.com
   - DOMAIN-SUFFIX,a.amnet.tw
-  - IP-CIDR,210.61.182.0/255
+  - IP-CIDR,210.61.182.0/32
