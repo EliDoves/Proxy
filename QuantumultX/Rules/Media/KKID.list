@@ -9,5 +9,6 @@ HOST-SUFFIX,kktix.com,KKID
 HOST-SUFFIX,kktv.com.tw,KKID
 HOST-SUFFIX,kktv.me,KKID
 HOST,kktv-theater.kk.stream,KKID
-HOST-UFFIX,kkcube.com,KKID
+HOST-SUFFIX,kkcube.com,KKID
 HOST-SUFFIX,a.amnet.tw,KKID
+IP-CIDR,210.61.182.0/255,KKID
