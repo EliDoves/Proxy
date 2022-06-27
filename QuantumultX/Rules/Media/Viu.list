@@ -1,11 +1,9 @@
-  # > Viu & ViuTV
-user-agent,Viu*,Viu
-user-agent,ViuTV*,Viu
 host-suffix,cognito-identity.us-east-1.amazonaws.com,Viu
 host-suffix,d1k2us671qcoau.cloudfront.net,Viu
 host-suffix,d2anahhhmp1ffz.cloudfront.net,Viu
 host-suffix,dfp6rglgjqszk.cloudfront.net,Viu
 host-suffix,mobileanalytics.us-east-1.amazonaws.com,Viu
+host-suffix,dvqn8iwdlb7.cloudfront.net,Viu
 host-suffix,viu.com,Viu
 host-suffix,viu.now.com,Viu
 host-suffix,viu.tv,Viu
