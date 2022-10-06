@@ -1,18 +1,28 @@
-# Apple Proxy,AppleProxy
-USER-AGENT,TestFlight*,AppleProxy
-USER-AGENT,com.apple.trustd*,AppleProxy
-HOST-SUFFIX,digicert.com,AppleProxy
-HOST-SUFFIX,blobstore.apple.com,AppleProxy
-HOST-SUFFIX,appsto.re,AppleProxy
-HOST-SUFFIX,apps.apple.com,AppleProxy
-HOST-SUFFIX,apple-dns.net,AppleProxy
-HOST,testflight.apple.com,AppleProxy
-HOST,sandbox.itunes.apple.com,AppleProxy
-HOST,api-glb-sea.smoot.apple.com,AppleProxy
-HOST,books.itunes.apple.com,AppleProxy
-HOST,cvws.icloud-content.com,AppleProxy
-HOST,developer.apple.com,AppleProxy
-HOST,hls.itunes.apple.com,AppleProxy
-HOST,itunes.apple.com,AppleProxy
-HOST,lookup-api.apple.com,AppleProxy
-HOST-KEYWORD,testflight,AppleProxy
+# NAME: AppleNews
+USER-AGENT,com.apple.trustd*,Apple
+USER-AGENT,AppleNews*,Apple
+USER-AGENT,com.apple.news*,Apple
+HOST,apple.comscoreresearch.com,Apple
+HOST,gateway.icloud.com,Apple
+HOST,gspe1-ssl.ls.apple.com,Apple
+HOST,news-assets.apple.com,Apple
+HOST,news-client-search.apple.com,Apple
+HOST,news-client.apple.com,Apple
+HOST,news-edge.apple.com,Apple
+HOST,news-events.apple.com,Apple
+HOST-SUFFIX,apple.news,Apple
+# NAME: AppleProxy
+HOST,api-glb-sea.smoot.apple.com,Apple
+HOST,books.itunes.apple.com,Apple
+HOST,cvws.icloud-content.com,Apple
+HOST,developer.apple.com,Apple
+HOST,hls.itunes.apple.com,Apple
+HOST,itunes.apple.com,Apple
+HOST,lookup-api.apple.com,Apple
+HOST,sandbox.itunes.apple.com,Apple
+HOST,testflight.apple.com,Apple
+HOST-SUFFIX,apple-dns.net,Apple
+HOST-SUFFIX,apps.apple.com,Apple
+HOST-SUFFIX,appsto.re,Apple
+HOST-SUFFIX,blobstore.apple.com,Apple
+HOST-SUFFIX,digicert.com,Apple
