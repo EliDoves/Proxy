@@ -1,4 +1,3 @@
-
 # AppleNews
 USER-AGENT,com.apple.trustd*,AppleProxy
 USER-AGENT,AppleNews*,AppleProxy
