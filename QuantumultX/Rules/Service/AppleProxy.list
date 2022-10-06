@@ -1,3 +1,4 @@
+
 # AppleNews
 USER-AGENT,com.apple.trustd*,AppleProxy
 USER-AGENT,AppleNews*,AppleProxy
@@ -26,6 +27,8 @@ HOST-SUFFIX,apps.apple.com,AppleProxy
 HOST-SUFFIX,appsto.re,AppleProxy
 HOST-SUFFIX,blobstore.apple.com,AppleProxy
 HOST-SUFFIX,digicert.com,AppleProxy
+HOST,beta.apple.com,AppleProxy
+HOST-KEYWORD,testflight,AppleProxy
 # SystemOTA
 HOST,appldnld-cdn.apple.com.akadns.net,AppleProxy
 HOST,appldnld-cdn.origin-apple.com.akadns.net,AppleProxy
