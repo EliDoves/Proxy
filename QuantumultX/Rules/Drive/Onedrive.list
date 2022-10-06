@@ -1,3 +1,4 @@
+# 已包含于Microsoft规则中
 user-agent,OneDrive*,OneDrive
 user-agent,OneDriveiOSApp*,OneDrive
 host-suffix,1drv.com,OneDrive
