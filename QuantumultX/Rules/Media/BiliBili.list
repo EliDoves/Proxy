@@ -1,9 +1,8 @@
-HOST,apm-misaka.biliapi.net,BiliBili
-HOST,p-bstarstatic.akamaized.net,BiliBili
-HOST,p.bstarstatic.com,BiliBili
-HOST,upos-bstar-mirrorakam.akamaized.net,BiliBili
-HOST,upos-bstar1-mirrorakam.akamaized.net,BiliBili
-HOST-SUFFIX,biliintl.com,BiliBili
+# NAME: BiliBili
+USER-AGENT,*bili*,BiliBili
+USER-AGENT,Bilibili*,BiliBili
+USER-AGENT,bili*,BiliBili
+USER-AGENT,bili-inter*,BiliBili
 HOST,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com,BiliBili
 HOST,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com,BiliBili
 HOST,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com,BiliBili
@@ -107,9 +106,6 @@ HOST-SUFFIX,smtcdns.net,BiliBili
 HOST-SUFFIX,upos-hz-mirrorakam.akamaized.net,BiliBili
 HOST-SUFFIX,uposdash-302-bilivideo.yfcdn.net,BiliBili
 HOST-SUFFIX,yo9.com,BiliBili
-USER-AGENT,*bili*,BiliBili
-USER-AGENT,Bilibili*,BiliBili
-USER-AGENT,bili*,BiliBili
 IP-CIDR,106.75.74.76/32,BiliBili
 IP-CIDR,111.206.25.147/32,BiliBili
 IP-CIDR,119.3.238.64/32,BiliBili
@@ -117,3 +113,11 @@ IP-CIDR,120.92.108.182/32,BiliBili
 IP-CIDR,120.92.113.99/32,BiliBili
 IP-CIDR,120.92.153.217/32,BiliBili
 IP-CIDR,134.175.207.130/32,BiliBili
+IP-CIDR,203.107.1.0/24,BiliBili
+HOST,apm-misaka.biliapi.net,BiliBili
+HOST,p-bstarstatic.akamaized.net,BiliBili
+HOST,p.bstarstatic.com,BiliBili
+HOST,upos-bstar-mirrorakam.akamaized.net,BiliBili
+HOST,upos-bstar1-mirrorakam.akamaized.net,BiliBili
+HOST-SUFFIX,bilibili.tv,BiliBili
+HOST-SUFFIX,biliintl.com,BiliBili
