@@ -1,8 +1,13 @@
+# Disney+
+USER-AGENT,Disney+*,Disney
+HOST,cdn.registerdisney.go.com,Disney
 HOST-SUFFIX,20thcenturystudios.com.au,Disney
 HOST-SUFFIX,20thcenturystudios.com.br,Disney
 HOST-SUFFIX,20thcenturystudios.jp,Disney
 HOST-SUFFIX,abc-studios.com,Disney
 HOST-SUFFIX,abc.com,Disney
+HOST-SUFFIX,abcnews.com,Disney
+HOST-SUFFIX,abcnews.edgesuite.net,Disney
 HOST-SUFFIX,adobedtm.com,Disney
 HOST-SUFFIX,adventuresbydisney.com,Disney
 HOST-SUFFIX,babble.com,Disney
@@ -76,6 +81,7 @@ HOST-SUFFIX,disneyinternational.com,Disney
 HOST-SUFFIX,disneyinternationalhd.com,Disney
 HOST-SUFFIX,disneyjunior.com,Disney
 HOST-SUFFIX,disneyjuniortreataday.com,Disney
+HOST-SUFFIX,disneylandparis.com,Disney
 HOST-SUFFIX,disneylatino.com,Disney
 HOST-SUFFIX,disneymagicmoments.co.il,Disney
 HOST-SUFFIX,disneymagicmoments.co.uk,Disney
@@ -98,15 +104,18 @@ HOST-SUFFIX,disneypeoplesurveys.com,Disney
 HOST-SUFFIX,disneyplus.bn5x.net,Disney
 HOST-SUFFIX,disneyplus.com,Disney
 HOST-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net,Disney
+HOST-SUFFIX,disneyprivacycenter.com,Disney
 HOST-SUFFIX,disneyredirects.com,Disney
 HOST-SUFFIX,disneysrivieraresort.com,Disney
 HOST-SUFFIX,disneystore.com,Disney
 HOST-SUFFIX,disneystreaming.com,Disney
 HOST-SUFFIX,disneysubscription.com,Disney
+HOST-SUFFIX,disneytermsofuse.com,Disney
 HOST-SUFFIX,disneytickets.co.uk,Disney
 HOST-SUFFIX,disneyturkiye.com.tr,Disney
 HOST-SUFFIX,disneytvajobs.com,Disney
 HOST-SUFFIX,disneyworld-go.com,Disney
+HOST-SUFFIX,dlp-media.com,Disney
 HOST-SUFFIX,dmed.technology,Disney
 HOST-SUFFIX,dssott.com,Disney
 HOST-SUFFIX,dtci.co,Disney
@@ -152,7 +161,7 @@ HOST-SUFFIX,starwarskids.com,Disney
 HOST-SUFFIX,streamingdisney.net,Disney
 HOST-SUFFIX,themarvelexperiencetour.com,Disney
 HOST-SUFFIX,thestationbymaker.com,Disney
+HOST-SUFFIX,thewaltdisneycompany.com,Disney
 HOST-SUFFIX,thisispolaris.com,Disney
 HOST-SUFFIX,watchdisneyfe.com,Disney
 HOST-SUFFIX,watchespn.com,Disney
-USER-AGENT,Disney+*,Disney
