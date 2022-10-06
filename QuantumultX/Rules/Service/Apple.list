@@ -6,6 +6,13 @@ USER-AGENT,com.apple.news*,Apple
 USER-AGENT,com.apple.trustd*,Apple
 USER-AGENT,AppleTV*,Apple
 USER-AGENT,com.apple.tv*,Apple
+# FindMy
+HOST,fmfmobile.icloud.com,Apple
+HOST,fmipmobile.icloud.com,Apple
+HOST,statici.icloud.com,Apple
+# Fitness
+HOST,amp-api.fitness.apple.com,Apple
+HOST,hls-svod.itunes.apple.com,Apple
 # AppStore
 HOST,apps.apple.com,AppStore
 HOST,itunes.apple.com,AppStore
