@@ -1,7 +1,9 @@
+# TVB
 USER-AGENT,encoreTVB*,TVB
 USER-AGENT,mytv*,TVB
 HOST,bcbolt446c5271-a.akamaihd.net,TVB
 HOST,edge.api.brightcove.com,TVB
+HOST,tvbtracking.azurewebsites.net,TVB
 HOST-SUFFIX,bigbigchannel.com.hk,TVB
 HOST-SUFFIX,bigbigshop.com,TVB
 HOST-SUFFIX,content.jwplatform.com,TVB
@@ -19,3 +21,4 @@ HOST-SUFFIX,tvbusa.com,TVB
 HOST-SUFFIX,tvbweekly.com,TVB
 HOST-SUFFIX,tvmedia.net.au,TVB
 HOST-SUFFIX,videos-f.jwpsrv.com,TVB
+HOST-SUFFIX,youboranqs01.com,TVB
