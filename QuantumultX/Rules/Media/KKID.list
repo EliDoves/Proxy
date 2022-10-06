@@ -1,14 +1,17 @@
-# > KKID
+# KKID
 USER-AGENT,KKTV*,KKID
 USER-AGENT,com.kktv.ios.kktv*,KKID
+HOST,kktv-theater.kk.stream,KKID
+HOST,theater-kktv.cdn.hinet.net,KKID
+HOST-SUFFIX,kktv.com.tw,KKID
+HOST-SUFFIX,kktv.me,KKID
 HOST-SUFFIX,kfs.io,KKID
 HOST-SUFFIX,kk.stream,KKID
+HOST-SUFFIX,kkbox-prime.com,KKID
 HOST-SUFFIX,kkbox.com,KKID
 HOST-SUFFIX,kkbox.com.tw,KKID
 HOST-SUFFIX,kktix.com,KKID
-HOST-SUFFIX,kktv.com.tw,KKID
-HOST-SUFFIX,kktv.me,KKID
-HOST,kktv-theater.kk.stream,KKID
+HOST-SUFFIX,theater-kktv.cdn.hinet.net,KKID
 HOST-SUFFIX,kkcube.com,KKID
 HOST-SUFFIX,a.amnet.tw,KKID
 IP-CIDR,210.61.182.0/32,KKID
