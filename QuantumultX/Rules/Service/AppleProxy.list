@@ -1,4 +1,4 @@
-# AppleNews
+# AppleNews 部分规格已放在Apple.list中，若要使用建议引用到Apple.list规则之前
 USER-AGENT,com.apple.trustd*,AppleProxy
 USER-AGENT,AppleNews*,AppleProxy
 USER-AGENT,com.apple.news*,AppleProxy
