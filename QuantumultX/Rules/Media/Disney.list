@@ -1,4 +1,4 @@
-# Disney+
+# NAME: Disney
 USER-AGENT,Disney+*,Disney
 HOST,cdn.registerdisney.go.com,Disney
 HOST-SUFFIX,20thcenturystudios.com.au,Disney
@@ -131,6 +131,10 @@ HOST-SUFFIX,espnqa.com,Disney
 HOST-SUFFIX,execute-api.us-east-1.amazonaws.com,Disney
 HOST-SUFFIX,go-disneyworldgo.com,Disney
 HOST-SUFFIX,go.com,Disney
+HOST-SUFFIX,hotstar-cdn.net,Disney
+HOST-SUFFIX,hotstar.com,Disney
+HOST-SUFFIX,hotstarext.com,Disney
+HOST-SUFFIX,hsprepack.akamaized.net,Disney
 HOST-SUFFIX,js-agent.newrelic.com,Disney
 HOST-SUFFIX,marvel.com,Disney
 HOST-SUFFIX,marvel10thanniversary.com,Disney
