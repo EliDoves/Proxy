@@ -527,6 +527,7 @@ HOST,developer.apple.com,AppleProxy
 HOST,hls.itunes.apple.com,AppleProxy
 HOST,lookup-api.apple.com,AppleProxy
 HOST,sandbox.itunes.apple.com,AppleProxy
+HOST,beta.apple.com,AppleProxy
 HOST,testflight.apple.com,AppleProxy
 HOST-SUFFIX,apps.apple.com,AppleProxy
 HOST,itunes.apple.com,AppleProxy
