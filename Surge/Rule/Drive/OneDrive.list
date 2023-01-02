@@ -1,7 +1,4 @@
-# OneDrive
-USER-AGENT,OneDrive*
-USER-AGENT,OneDriveiOSApp*
-DOMAIN-SUFFIX,api.onedrive.com
+# NAME: OneDrive
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,oneclient.sfx.ms
@@ -17,3 +14,7 @@ DOMAIN-SUFFIX,storage.msn.com
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,skydrive
+USER-AGENT,OneDrive*
+USER-AGENT,OneDriveiOSApp*
+PROCESS-NAME,onedrive
+PROCESS-NAME,onedriveupdater
