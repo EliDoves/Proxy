@@ -9,6 +9,7 @@ DOMAIN,sandbox.itunes.apple.com
 DOMAIN,testflight.apple.com
 DOMAIN-SUFFIX,apps.apple.com
 DOMAIN,itunes.apple.com
+DOMAIN,beta.apple.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,blobstore.apple.com
