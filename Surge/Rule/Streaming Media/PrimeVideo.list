@@ -1,6 +1,4 @@
-# 该规则已包含于Amazon中
-USER-AGENT,InstantVideo.US*
-USER-AGENT,Prime%20Video*
+# NAME: AmazonPrimeVideo
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net
 DOMAIN,d22qjgkvxw22r6.cloudfront.net
 DOMAIN,d25xi40x97liuc.cloudfront.net
@@ -25,3 +23,6 @@ DOMAIN-SUFFIX,primevideo.info
 DOMAIN-SUFFIX,primevideo.org
 DOMAIN-SUFFIX,primevideo.tv
 DOMAIN-KEYWORD,avoddashs
+USER-AGENT,InstantVideo.US*
+USER-AGENT,Prime%20Video*
+PROCESS-NAME,com.amazon.avod.thirdpartyclient
