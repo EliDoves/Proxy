@@ -1,12 +1,12 @@
 payload:
 # NAME: BiliBili
-PROCESS-NAME,com.bilibili.app.blue
-PROCESS-NAME,com.bilibili.app.in
-PROCESS-NAME,com.bilibili.comic
-PROCESS-NAME,com.bilibili.comic.intl
-PROCESS-NAME,tv.danmaku.bili
-PROCESS-NAME,tv.danmaku.bilibilihd
-PROCESS-NAME,com.bstar.intl
+  - PROCESS-NAME,com.bilibili.app.blue
+  - PROCESS-NAME,com.bilibili.app.in
+  - PROCESS-NAME,com.bilibili.comic
+  - PROCESS-NAME,com.bilibili.comic.intl
+  - PROCESS-NAME,tv.danmaku.bili
+  - PROCESS-NAME,tv.danmaku.bilibilihd
+  - PROCESS-NAME,com.bstar.intl
   - DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
   - DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
   - DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com
@@ -49,6 +49,7 @@ PROCESS-NAME,com.bstar.intl
   - DOMAIN,222-188-6-1.ksyungslb.com
   - DOMAIN,36-104-134-1.ksyungslb.com
   - DOMAIN,36-25-252-1.ksyungslb.com
+  - DOMAIN,apm-misaka.biliapi.net
   - DOMAIN,3ge3drmttga5nhcbqge3ur.ourdvsss.com
   - DOMAIN,3geauymtsgrzdnqbofa5do.ourdvsss.com
   - DOMAIN,3geauymtsgrzdnqbofa5dy.ourdvsss.com
@@ -126,4 +127,3 @@ PROCESS-NAME,com.bstar.intl
   - IP-CIDR,120.92.153.217/32,no-resolve
   - IP-CIDR,134.175.207.130/32,no-resolve
   - IP-CIDR,203.107.1.0/24,no-resolve
-  - DOMAIN,apm-misaka.biliapi.net
