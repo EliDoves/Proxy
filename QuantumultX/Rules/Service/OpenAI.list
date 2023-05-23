@@ -1,0 +1,13 @@
+# Openai
+HOST,cdn.auth0.com,OpenAI
+HOST,openaiapi-site.azureedge.net,OpenAI
+HOST,api-iam.intercom.io,OpenAI
+HOST,openaicom.imgix.net,OpenAI
+HOST,challenges.cloudflare.comc
+HOST-SUFFIX,identrust.com,OpenAI
+HOST-SUFFIX,openai.com,OpenAI
+HOST-SUFFIX,ai.com,OpenAI
+HOST-SUFFIX,challenges.cloudflare.com,OpenAI
+HOST-KEYWORD,openai,OpenAI
+HOST-KEYWORD,openaicom,OpenAI
+HOST-KEYWORD,openaiapi,OpenAI
