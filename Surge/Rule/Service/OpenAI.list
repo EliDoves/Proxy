@@ -1,10 +1,13 @@
 # Openai
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN,cdn.auth0.com
 DOMAIN,openaiapi-site.azureedge.net
 DOMAIN,api-iam.intercom.io
 DOMAIN,openaicom.imgix.net
+DOMAIN,challenges.cloudflare.comc
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,openaicom
 DOMAIN-KEYWORD,openaiapi
