@@ -4,7 +4,7 @@ payload:
   - DOMAIN,openaiapi-site.azureedge.net,OpenAI
   - DOMAIN,api-iam.intercom.io,OpenAI
   - DOMAIN,openaicom.imgix.net,OpenAI
-  - DOMAIN,challenges.cloudflare.comc
+  - DOMAIN,challenges.cloudflare.com,OpenAI
   - DOMAIN-SUFFIX,identrust.com,OpenAI
   - DOMAIN-SUFFIX,openai.com,OpenAI
   - DOMAIN-SUFFIX,ai.com,OpenAI
