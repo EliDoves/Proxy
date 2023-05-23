@@ -1,11 +1,11 @@
 # Openai
 HOST,cdn.auth0.com,OpenAI
-HOST,ingest.sentry.io,OpenAI
 HOST,widget.intercom.io,OpenAI
 HOST,openaiapi-site.azureedge.net,OpenAI
 HOST,api-iam.intercom.io,OpenAI
 HOST,openaicom.imgix.net,OpenAI
 HOST,challenges.cloudflare.com,OpenAI
+HOST-SUFFIX,ingest.sentry.io,OpenAI
 HOST-SUFFIX,openaicom.imgix.net,OpenAI
 HOST-SUFFIX,identrust.com,OpenAI
 HOST-SUFFIX,openai.com,OpenAI
