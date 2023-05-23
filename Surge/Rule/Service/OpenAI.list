@@ -1,11 +1,11 @@
 # Openai
 DOMAIN,cdn.auth0.com
-DOMAIN,ingest.sentry.io
 DOMAIN,widget.intercom.io
 DOMAIN,openaiapi-site.azureedge.net
 DOMAIN,api-iam.intercom.io
 DOMAIN,openaicom.imgix.net
 DOMAIN,challenges.cloudflare.com
+DOMAIN-SUFFIX,ingest.sentry.io
 DOMAIN-SUFFIX,openaicom.imgix.net
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,openai.com
