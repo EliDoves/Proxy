@@ -1,12 +1,12 @@
 payload:
 # Openai
   - DOMAIN,cdn.auth0.com,OpenAI
-  - DOMAIN,ingest.sentry.io,OpenAI
   - DOMAIN,widget.intercom.io,OpenAI
   - DOMAIN,openaiapi-site.azureedge.net,OpenAI
   - DOMAIN,api-iam.intercom.io,OpenAI
   - DOMAIN,openaicom.imgix.net,OpenAI
   - DOMAIN,challenges.cloudflare.com,OpenAI
+  - DOMAIN-SUFFIX,ingest.sentry.io,OpenAI
   - DOMAIN-SUFFIX,openaicom.imgix.net,OpenAI
   - DOMAIN-SUFFIX,identrust.com,OpenAI
   - DOMAIN-SUFFIX,openai.com,OpenAI
