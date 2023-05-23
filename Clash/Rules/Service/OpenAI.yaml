@@ -1,0 +1,14 @@
+payload:
+# Openai
+  - DOMAIN,cdn.auth0.com,OpenAI
+  - DOMAIN,openaiapi-site.azureedge.net,OpenAI
+  - DOMAIN,api-iam.intercom.io,OpenAI
+  - DOMAIN,openaicom.imgix.net,OpenAI
+  - DOMAIN,challenges.cloudflare.comc
+  - DOMAIN-SUFFIX,identrust.com,OpenAI
+  - DOMAIN-SUFFIX,openai.com,OpenAI
+  - DOMAIN-SUFFIX,ai.com,OpenAI
+  - DOMAIN-SUFFIX,challenges.cloudflare.com,OpenAI
+  - DOMAIN-KEYWORD,openai,OpenAI
+  - DOMAIN-KEYWORD,openaicom,OpenAI
+  - DOMAIN-KEYWORD,openaiapi,OpenAI
