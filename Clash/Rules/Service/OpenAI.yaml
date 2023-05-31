@@ -6,6 +6,7 @@ payload:
   - DOMAIN,api-iam.intercom.io,OpenAI
   - DOMAIN,openaicom.imgix.net,OpenAI
   - DOMAIN,challenges.cloudflare.com,OpenAI
+  - DOMAIN-SUFFIX,sentry.io,OpenAI
   - DOMAIN-SUFFIX,ingest.sentry.io,OpenAI
   - DOMAIN-SUFFIX,openaicom.imgix.net,OpenAI
   - DOMAIN-SUFFIX,identrust.com,OpenAI
