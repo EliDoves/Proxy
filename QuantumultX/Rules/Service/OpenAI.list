@@ -5,6 +5,7 @@ HOST,openaiapi-site.azureedge.net,OpenAI
 HOST,api-iam.intercom.io,OpenAI
 HOST,openaicom.imgix.net,OpenAI
 HOST,challenges.cloudflare.com,OpenAI
+HOST-SUFFIX,sentry.io,OpenAI
 HOST-SUFFIX,ingest.sentry.io,OpenAI
 HOST-SUFFIX,openaicom.imgix.net,OpenAI
 HOST-SUFFIX,identrust.com,OpenAI
