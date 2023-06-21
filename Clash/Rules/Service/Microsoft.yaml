@@ -565,6 +565,7 @@ payload:
   - DOMAIN-SUFFIX,yammer.com
   - DOMAIN-SUFFIX,yammerusercontent.com
   - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-KEYWORD,azure
 # NAME: MicrosoftEdge
   - DOMAIN,edge.activity.windows.com
   - DOMAIN,edge.microsoft.com
