@@ -569,6 +569,7 @@ HOST-SUFFIX,xbx.lv,Microsoft
 HOST-SUFFIX,yammer.com,Microsoft
 HOST-SUFFIX,yammerusercontent.com,Microsoft
 HOST-KEYWORD,microsoft,Microsoft
+HOST-KEYWORD,azure,Microsoft
 USER-AGENT,Microsoft*,Microsoft
 # NAME: MicrosoftEdge,Microsoft
 HOST,edge.activity.windows.com,Microsoft
