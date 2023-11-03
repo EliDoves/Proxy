@@ -4,3 +4,5 @@ payload:
   - DOMAIN-SUFFIX,yahoo.co.jp
   - DOMAIN-SUFFIX,yimg.jp
   - DOMAIN-SUFFIX,yahooapis.jp
+  - DOMAIN-SUFFIX,img-ikyu.com
+  - DOMAIN-SUFFIX,s.yjtag.jp
