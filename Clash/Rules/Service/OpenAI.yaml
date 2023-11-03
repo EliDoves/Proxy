@@ -31,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,intercomcdn.com
   - DOMAIN-SUFFIX,statsigapi.net
   - DOMAIN-SUFFIX,cdn.oaistatic.com
+  - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,client-api.arkoselabs.com
   - DOMAIN-SUFFIX,events.statsigapi.net
