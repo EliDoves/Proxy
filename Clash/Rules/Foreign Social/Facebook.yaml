@@ -548,6 +548,7 @@ payload:
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,fbcdn
   - DOMAIN-KEYWORD,whatsapp
+  - DOMAIN-KEYWORD,instagram
 
   # whatsapp ip
   - IP-CIDR,108.168.174.0/16,no-resolve
