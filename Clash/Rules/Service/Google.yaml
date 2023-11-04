@@ -731,6 +731,7 @@ payload:
   - DOMAIN-SUFFIX,googledrive.com
   - DOMAIN-SUFFIX,googleusercontent.com
   - PROCESS-NAME,backupandsync
+  - PROCESS-NAME,GoogleDriveFS.exe
 # NAME: GoogleEarth
   - DOMAIN-SUFFIX,earth-pa.clients6.google.com
   - DOMAIN-SUFFIX,earth.google.com
@@ -758,6 +759,7 @@ payload:
   - DOMAIN,alt7-mtalk.google.com
   - DOMAIN,alt8-mtalk.google.com
   - DOMAIN,mtalk.google.com
+# Ip段
   - IP-CIDR,108.177.125.188/32,no-resolve
   - IP-CIDR,142.250.10.188/32,no-resolve
   - IP-CIDR,142.250.31.188/32,no-resolve
@@ -965,7 +967,10 @@ payload:
   - DOMAIN-SUFFIX,yt.be
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-KEYWORD,youtube
+# IP段
   - IP-CIDR,172.110.32.0/21,no-resolve
+  - IP-CIDR,173.194.0.0/16,no-resolve
   - IP-CIDR,216.73.80.0/20,no-resolve
+  - IP-CIDR,74.125.0.0/16,no-resolve
   - IP-CIDR6,2620:120:e000::/40,no-resolve
   - DOMAIN,music.youtube.com
