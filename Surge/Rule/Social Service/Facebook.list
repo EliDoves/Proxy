@@ -545,7 +545,9 @@ DOMAIN-SUFFIX,yogalayout.com
 DOMAIN-SUFFIX,zuckerberg.com
 DOMAIN-SUFFIX,zuckerberg.net
 DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,fbcdn
 DOMAIN-KEYWORD,whatsapp
+DOMAIN-KEYWORD,instagram
 # whatsapp ip
 IP-CIDR,108.168.174.0/16,no-resolve
 IP-CIDR,158.85.224.160/27,no-resolve
