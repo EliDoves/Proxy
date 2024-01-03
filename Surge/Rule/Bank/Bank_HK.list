@@ -8,8 +8,10 @@ DOMAIN,athena.za.group
 DOMAIN,xman-xflow-sdk.za.group
 DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,zaticdn.com
+DOMAIN-SUFFIX,zajourney.com
 
 #理慧銀行
+DOMAIN,mcxymt1vz-smy-nsfkm9-07xj6-8.device.marketingcloudapis.com
 DOMAIN-SUFFIX,livibank.com
 DOMAIN-KEYWORD,livibank
 
@@ -44,6 +46,10 @@ DOMAIN,collect-ap-northeast-1.tealiumiq.com
 DOMAIN,visitor-service-ap-northeast-1.tealiumiq.com
 DOMAIN,lpcdn.lpsnmedia.net
 DOMAIN,cdn.hsbc.com.hk
+DOMAIN,log-58144bf0.we-stats.com
+DOMAIN,mobile.eum-appdynamics.com
+DOMAIN,tags.tiqcdn.com
+DOMAIN,cdn.appdynamics.com
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,tealiumiq.com
 DOMAIN-KEYWORD,hsbc
