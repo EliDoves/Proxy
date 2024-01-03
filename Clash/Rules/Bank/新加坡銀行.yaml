@@ -1,0 +1,18 @@
+payload:
+  #新加坡銀行
+  #華僑銀行
+  - DOMAIN,internet.ocbc.com
+  - DOMAIN,queue.ocbc.com
+  - DOMAIN,s.go-mpulse.net
+  - DOMAIN,pafms.ocbc.com
+  - DOMAIN,id.singpass.gov.sg
+  - DOMAIN,dpm.demdex.net
+  - DOMAIN,overseachinesebankin.tt.omtrdc.net
+  - DOMAIN,cdn9.ocbcnisp.com
+  - DOMAIN-SUFFIX,ocbcnisp.com
+  - DOMAIN-SUFFIX,ocbc.com.hk
+  - DOMAIN-SUFFIX,ocbc.com.cn
+  - DOMAIN-SUFFIX,ocbc.com.mo
+  - DOMAIN-SUFFIX,ocbc.id
+  - DOMAIN-SUFFIX,ocbc.com
+  - DOMAIN-KEYWORD,ocbc  
