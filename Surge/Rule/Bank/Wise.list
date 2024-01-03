@@ -1,4 +1,8 @@
 # Wise
 DOMAIN,api-js.mixpanel.com
 DOMAIN,app.s01.callsign.com
+DOMAIN,api.mixpanel.com
+DOMAIN,sdk.fra-01.braze.eu
+DOMAIN,api.authy.com
+DOMAIN,sdk-api-v1.singular.net
 DOMAIN-SUFFIX,wise.com
