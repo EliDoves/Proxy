@@ -1,0 +1,7 @@
+payload:
+  # 新加坡益丰集团 iFast_英国
+  - DOMAIN,secure.fundsupermart.com
+  - DOMAIN,secure.fundsupermart.com
+  - DOMAIN-SUFFIX,ifastgb.com
+  - DOMAIN-SUFFIX,ifastcorp.com
+  - DOMAIN-KEYWORD,ifastgb
