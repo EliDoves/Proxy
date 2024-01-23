@@ -6,4 +6,7 @@ payload:
   - DOMAIN,data-api.similarsites.com
   - DOMAIN,media.karousell.com
   - DOMAIN,api.carousell.com
+  - DOMAIN,api.carousell.io
   - DOMAIN-SUFFIX,carousell.com
+  - DOMAIN-SUFFIX,carousell.io
+  - DOMAIN-KEYWORD,carousell
