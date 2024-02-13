@@ -1,0 +1,57 @@
+payload:
+  # IBKR盈透证券
+  - DOMAIN,download2.interactivebrokers.com
+  - DOMAIN,data-api.similarsites.com
+  - DOMAIN,s.go-mpulse.net
+  - DOMAIN,ndcdyn.interactivebrokers.com
+  - DOMAIN,api.ibkr.com
+  - DOMAIN,assets.lbkrs.com #长桥证券
+  - DOMAIN-SUFFIX,interactivebrokers.com
+  - DOMAIN-SUFFIX,interactivebrokers.com.hk
+  - DOMAIN-SUFFIX,ibkr.com
+  - DOMAIN-SUFFIX,lbkrs.com
+
+  # 富途牛牛&MooMoo
+  - DOMAIN,consult.futuhk.com
+  - DOMAIN,collect.futufin.com
+  - DOMAIN,dedog-server.futunn.com
+  - DOMAIN,static.futunn.com
+  - DOMAIN,dedog-report.futunn.com
+  - DOMAIN,sdreport.futunn.com
+  - DOMAIN,sdauth.futunn.com
+  - DOMAIN,passport.futunn.com
+  - DOMAIN,softwaredownload.futunn.com
+  - DOMAIN,static.moomoo.com
+  - DOMAIN,dedog-report.moomoo.com
+  - DOMAIN,sdauth.moomoo.com
+  - DOMAIN,passport.moomoo.com
+  - DOMAIN-SUFFIX,futuhk8.com
+  - DOMAIN-SUFFIX,futuhk.com
+  - DOMAIN-SUFFIX,moomoo.com
+  - DOMAIN-KEYWORD,moomoo
+
+  # uSMART盈立证券
+  - DOMAIN,jy-common-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com
+  - DOMAIN,sc.yxzq.com
+  - DOMAIN,hz.yxzq.com
+  - DOMAIN-SUFFIX,usmart.sg
+  - DOMAIN,jy.usmartsg.com
+  - DOMAIN,usmartglobal.zendesk
+  - DOMAIN,ekr.zdassets.com
+  - DOMAIN,jy-common-sg-prd-singapore-1257884527.cos.ap-singapore.myqcloud.com
+  - DOMAIN,widget-mediator.zopim.com
+  - DOMAIN,hz.usmartsg.com
+  - DOMAIN,client-chat.easychat.co
+  - DOMAIN,chat-plugin.easychat.co
+  - DOMAIN-SUFFIX,usmartglobal.com
+  - DOMAIN-SUFFIX,usmartsecurities.com
+  - DOMAIN-SUFFIX,usmart.hk
+  - DOMAIN-KEYWORD,usmart
+
+  # 华盛证券
+  - DOMAIN,r.hstong.com
+  - DOMAIN,sensors-api.hstong.com
+  - DOMAIN,design.hszq8.com
+  - DOMAIN-KEYWORD,hstong
+
+
