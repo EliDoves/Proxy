@@ -1,0 +1,10 @@
+# ANA 全日空航空
+# Total 8
+DOMAIN,ana-suggest.siba.tokyo
+DOMAIN-SUFFIX,ana.co.jp
+# DOMAIN-SUFFIX,hlx.page 广告，可添加去广告规则
+DOMAIN-SUFFIX,impact-ad.jp
+DOMAIN-SUFFIX,ne.jp
+DOMAIN-SUFFIX,astyle.jp
+DOMAIN-SUFFIX,tripadvisor.jp
+DOMAIN-SUFFIX,siba.tokyo
