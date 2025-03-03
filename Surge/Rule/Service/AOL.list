@@ -1,7 +1,7 @@
 # AOL
-# Total 6
+# Total 5
 DOMAIN-SUFFIX,aol.ca
-DOMAIN-SUFFIX,aol.jp
+# DOMAIN-SUFFIX,aol.jp 日本站已于2022年关闭
 DOMAIN-SUFFIX,aol.co.uk
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,aolcdn.com
