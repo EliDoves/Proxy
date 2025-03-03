@@ -1,8 +1,10 @@
 # KKTV
 # KKBOX
+# Total 11
 USER-AGENT,com.kktv.ios.kktv*
 USER-AGENT,KKTV*
 DOMAIN,kktv-theater.kk.stream
+DOMAIN,theater-kktv.cdn.hinet.net
 DOMAIN-SUFFIX,kfs.io
 DOMAIN-SUFFIX,kk.stream
 DOMAIN-SUFFIX,kkbox.com
