@@ -1,6 +1,19 @@
-#Yahoo Japan
+# Yahoo Japan
+# Total 17
 DOMAIN-SUFFIX,yahoo.co.jp
 DOMAIN-SUFFIX,yimg.jp
 DOMAIN-SUFFIX,yahooapis.jp
 DOMAIN-SUFFIX,s.yjtag.jp
 DOMAIN-SUFFIX,img-ikyu.com
+DOMAIN-SUFFIX,yahoo-net.jp
+DOMAIN-SUFFIX,storematch.jp
+DOMAIN-SUFFIX,storage-yahoo.jp
+DOMAIN-SUFFIX,wear2.jp
+DOMAIN-SUFFIX,zozo.jp
+DOMAIN-SUFFIX,imgz.jp
+DOMAIN-SUFFIX,imgz.jp
+DOMAIN-SUFFIX,ikyu.com
+DOMAIN-SUFFIX,demae-can.com
+DOMAIN-SUFFIX,demae-can.co.jp
+DOMAIN-SUFFIX,ylive.jp
+DOMAIN-SUFFIX,ppcd-support.jp
