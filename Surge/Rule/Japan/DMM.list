@@ -1,3 +1,5 @@
+# DMM
+# TOTAL: 34
 DOMAIN-SUFFIX,akabeesoft2.com
 DOMAIN-SUFFIX,akabeesoft3.com
 DOMAIN-SUFFIX,akatsukiworks.com
@@ -26,5 +28,12 @@ DOMAIN-SUFFIX,navismithapis-cdn.com
 DOMAIN-SUFFIX,socdm.com
 DOMAIN-SUFFIX,tenco.cc
 DOMAIN-SUFFIX,wheel-soft.com
+DOMAIN-SUFFIX,navismithapis-cdn.com
+DOMAIN-SUFFIX,p-smith.com
+DOMAIN-SUFFIX,navismithapis.com
+DOMAIN-SUFFIX,clicktale.pantherssl.com
 IP-CIDR,125.6.189.7/32,no-resolve
 IP-CIDR,203.104.209.7/32,no-resolve
+
+
+
