@@ -1,0 +1,14 @@
+# JAL 日本航空
+# Total 9
+DOMAIN,jalcard.mil.movie
+DOMAIN,saas-website.fusion.leadinx.co.jp
+DOMAIN-SUFFIX,jal.co.jp
+# DOMAIN,japanairlinescoltd.tt.omtrdc.net 广告，可屏蔽掉
+DOMAIN-SUFFIX,jal-globalwallet.com
+DOMAIN-SUFFIX,netbk.co.jp
+DOMAIN-SUFFIX,rtoaster.jp
+DOMAIN-SUFFIX,microad.jp
+DOMAIN-SUFFIX,chatplus.jp
+
+
+
