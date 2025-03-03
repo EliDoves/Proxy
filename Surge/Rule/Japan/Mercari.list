@@ -1,11 +1,12 @@
-#Mercari煤炉
-DOMAIN,web-jp-assets-v2.mercdn.net
-DOMAIN,rAddr=static.mercdn.net
-DOMAIN,rAddr=uuid-bridge.jp.mercari.com
-DOMAIN,rAddr=login.jp.mercari.com
-DOMAIN,web-auth-assets-v1.mercdn.net
-DOMAIN,rAddr=assets.mercari-shops-static.com
-DOMAIN-SUFFIX,auth.mercari.com
-DOMAIN-SUFFIX,jp.mercari.com
-DOMAIN-SUFFIX,mercari.com
+# Mercari煤炉
+# Total 5
 DOMAIN-SUFFIX,mercdn.net
+DOMAIN-SUFFIX,mercari.com
+DOMAIN-SUFFIX,mercari.jp
+DOMAIN-SUFFIX,merpay.com
+DOMAIN-SUFFIX,mercari-shops-static.com
+
+
+
+
+
