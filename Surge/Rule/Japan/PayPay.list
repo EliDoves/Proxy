@@ -1,4 +1,5 @@
-#PayPay
+# PayPay 添加PayPay时需同时添加Yahoo！Japan规则，并分流同样的节点
+# Total 4
 DOMAIN-SUFFIX,paypay.ne.jp
 DOMAIN-SUFFIX,paypay-card.co.jp
 DOMAIN-SUFFIX,yjcard-ppc-apis.jp
