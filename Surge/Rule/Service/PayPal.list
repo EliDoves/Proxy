@@ -1,3 +1,5 @@
+# PayPal
+# Total 249
 USER-AGENT,PayPal*
 DOMAIN-SUFFIX,account-paypal.info
 DOMAIN-SUFFIX,account-paypal.net
@@ -5,6 +7,7 @@ DOMAIN-SUFFIX,account-paypal.org
 DOMAIN-SUFFIX,accountpaypal.com
 DOMAIN-SUFFIX,accountpaypal.net
 DOMAIN-SUFFIX,accountpaypal.org
+DOMAIN-SUFFIX,paypal-mktg.com
 DOMAIN-SUFFIX,anfutong.cn
 DOMAIN-SUFFIX,anfutong.com
 DOMAIN-SUFFIX,anfutong.com.cn
