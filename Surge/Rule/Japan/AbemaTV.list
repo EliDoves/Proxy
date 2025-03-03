@@ -1,6 +1,9 @@
 # Abematv
-# TOTAL: 24
+# TOTAL: 27
 USER-AGENT,AbemaTV*
+DOMAIN,api-abematv.bucketeer.jp
+DOMAIN,bam.nr-data.net
+DOMAIN-SUFFIX,abema.zendesk.com
 DOMAIN-SUFFIX,abema-tv.com
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
@@ -24,3 +27,12 @@ DOMAIN-SUFFIX,linear-abematv.akamaized.net
 DOMAIN-SUFFIX,vod-abematv.akamaized.net
 DOMAIN-SUFFIX,winticket.jp
 DOMAIN-KEYWORD,abematv.akamaized.net
+DOMAIN-KEYWORD,abematv
+
+
+
+
+
+
+
+
