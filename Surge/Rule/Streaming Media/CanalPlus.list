@@ -1,0 +1,13 @@
+# Canal+ 法国流媒体
+DOMAIN,dash-vod-aka-canalplus.akamaized.net
+DOMAIN,widget-content.prod.pass.canal.aws.io-cplus.net
+DOMAIN-SUFFIX,canalplus.com
+DOMAIN-SUFFIX,canal-plus.com
+DOMAIN-SUFFIX,canalplus.pro
+DOMAIN-SUFFIX,canalplustech.pro
+DOMAIN-SUFFIX,canal-plus.net
+DOMAIN-SUFFIX,canalplus-bo.net
+DOMAIN-SUFFIX,canal-overseas.com
+DOMAIN-SUFFIX,canal.aws.io-cplus.net
+USER-AGENT,canal+*
+USER-AGENT,canalplus*
