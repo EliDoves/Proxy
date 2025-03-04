@@ -1,4 +1,5 @@
 # YouTube Music 已包含在Google.list中，若要分开使用，建议优先放在Google.list前
+DOMAIN,music.youtube.com
 USER-AGENT,*YouTubeMusic*
 USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
