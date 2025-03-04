@@ -1,0 +1,19 @@
+# AppleNews
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,news-client-search.apple.com
+DOMAIN,news-assets.apple.com
+DOMAIN,news-client.apple.com
+DOMAIN,news-edge.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,appleenews.com
+DOMAIN-SUFFIX,applenews.berlin
+DOMAIN-SUFFIX,applenews.hamburg
+DOMAIN-SUFFIX,applenews.tv
+DOMAIN-SUFFIX,applenewsformat.com
+DOMAIN-SUFFIX,news-assets.apple.com
+DOMAIN-SUFFIX,news-client.apple.com
+DOMAIN-SUFFIX,news-edge.apple.com
+DOMAIN-SUFFIX,news-events.apple.com
+USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*
