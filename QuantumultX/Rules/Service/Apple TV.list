@@ -1,0 +1,16 @@
+# Apple TV
+HOST,hls-amt.itunes.apple.com
+HOST,hls.itunes.apple.com
+HOST,np-edge.itunes.apple.com
+HOST,play-edge.itunes.apple.com
+HOST,tv.applemusic.com
+HOST,uts-api.itunes.apple.com
+HOST-SUFFIX,tv.apple.com
+HOST-SUFFIX,appletv.com
+HOST-SUFFIX,appletv.fr
+HOST-SUFFIX,appletv.wang
+HOST-SUFFIX,appletv4.cn
+HOST-SUFFIX,appletv4.com.cn
+HOST-SUFFIX,appletvapp.apple
+USER-AGENT,AppleTV*
+USER-AGENT,com.apple.tv*
