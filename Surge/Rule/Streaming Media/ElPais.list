@@ -1,0 +1,8 @@
+# El Pais 西班牙国家报
+DOMAIN-SUFFIX,elpais.com
+DOMAIN-SUFFIX,prisa.com
+DOMAIN-SUFFIX,prisamedia.com
+DOMAIN-SUFFIX,prisasd.com
+DOMAIN-SUFFIX,prisadigital.com
+DOMAIN,ats-wrapper.privacymanager.io,REJECT
+DOMAIN,prisacom.tt.omtrdc.net,REJECT
