@@ -32,6 +32,5 @@
     {"name":"Component29", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Google/Component29.png"},
     {"name":"Component30, "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Google/Component30.png"},
     {"name":"googlepayicon", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Google/googlepayicon.png"},
-
  ]
 }
