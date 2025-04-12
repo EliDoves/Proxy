@@ -36,6 +36,8 @@
     {"name":"XBOX", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/PlatformApp/XBOX.png"},
     {"name":"XBOX", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/PlatformApp/XBOX1.png"},
     {"name":"YouTube", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/PlatformApp/YouTube.png"},
+    {"name":"HSBC", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/HSBC.png"},
+    {"name":"PayPay", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/PayPay.png"},
 
  ]
 }
