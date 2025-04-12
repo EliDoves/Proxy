@@ -19,7 +19,7 @@
     {"name":"Opera", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/PlatformApp/Opera.png"},
     {"name":"Paramount", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/PlatformApp/Paramount.png"},
     {"name":"Playstation", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/PlatformApp/Playstation.png"},
-    {"name":"Podcast", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/PlatformApp/.png"},
+    {"name":"Podcast", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/PlatformApp/Podcast.png"},
     {"name":"PrimeReading", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/PlatformApp/PrimeReading.png"},
     {"name":"Primevideo", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/PlatformApp/Primevideo.png"},
     {"name":"SoundCloud", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/PlatformApp/SoundCloud.png"},
