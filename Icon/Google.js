@@ -1,6 +1,6 @@
 {
   "name":"Google", "description":"Google平台图标", 
-  "icons":[
+  "icons":[    
     {"name":"Component1", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Google/Component1.png"},
     {"name":"Component2", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Google/Component2.png"},
     {"name":"Component3", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Google/Component3.png"},
