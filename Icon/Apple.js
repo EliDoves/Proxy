@@ -1,5 +1,5 @@
 {
-  "name":"Apple", "description":"Apple相关服务图标", 
+  "name":"Apple", "description":"Apple相关服务的图标", 
   "icons":[    
     {"name":"App_Store", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Apple/App_Store.png"},
     {"name":"Apple_ID_Badge", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Apple/Apple_ID_Badge.png"},
