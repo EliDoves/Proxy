@@ -1,0 +1,24 @@
+payload:
+    - api-glb-sea.smoot.apple.com
+    - apple.comscoreresearch.com
+    - cdn.apple-cloudkit.com
+    - cvws.icloud-content.com
+    - developer.apple.com
+    - devimages-cdn.apple.com
+    - devstreaming-cdn.apple.com
+    - docs-assets.developer.apple.com
+    - hls-svod.itunes.apple.com
+    - js-cdn.music.apple.com
+    - lookup-api.apple.com
+    - sandbox.itunes.apple.com
+    - testflight.apple.com
+    - +.apple-dns.net
+    - +.apps.apple.com
+    - +.appsto.re
+    - +.audio-ssl.itunes.apple.com
+    - +.blobstore.apple.com
+    - +.cdn-apple.com
+    - +.digicert.com
+    - +.hls-amt.itunes.apple.com
+    - +.hls.itunes.apple.com
+    - +.ocsp.apple.com

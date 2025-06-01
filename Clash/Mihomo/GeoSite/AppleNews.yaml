@@ -1,0 +1,17 @@
+payload:
+    - gspe1-ssl.ls.apple.com
+    - news-client-search.apple.com
+    - news-assets.apple.com
+    - news-client.apple.com
+    - news-edge.apple.com
+    - news-events.apple.com
+    - +.apple.news
+    - +.appleenews.com
+    - +.applenews.berlin
+    - +.applenews.hamburg
+    - +.applenews.tv
+    - +.applenewsformat.com
+    - +.news-assets.apple.com
+    - +.news-client.apple.com
+    - +.news-edge.apple.com
+    - +.news-events.apple.com
