@@ -1,9 +1,4 @@
 payload:
-  - api-js.mixpanel.com
-  - app.s01.callsign.com
-  - api.mixpanel.com
-  - sdk.fra-01.braze.eu
-  - api.authy.com
-  - sdk-api-v1.singular.net
   - +.wise.com
+  - +.transferwise.com
   - KEYWORD:wise
