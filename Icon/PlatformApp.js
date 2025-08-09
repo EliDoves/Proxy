@@ -45,9 +45,7 @@
     {"name":"HSBC", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/HSBC.png"},
     {"name":"PayPay", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/PayPay.png"},
     {"name":"PayPay1", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/PayPay1.png"},
-    {"name":"TNGWallet", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/TNGWallet.png"},
     {"name":"DBS", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/DBS.png"},
-    {"name":"iFast", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/iFast.png"},
     {"name":"IBKR", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/IBKR.png"},
 
  ]
