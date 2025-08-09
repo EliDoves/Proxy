@@ -1,11 +1,8 @@
 # IBKR盈透证券
 DOMAIN,download2.interactivebrokers.com
-DOMAIN,data-api.similarsites.com
-DOMAIN,s.go-mpulse.net
 DOMAIN,ndcdyn.interactivebrokers.com
 DOMAIN,api.ibkr.com
-DOMAIN,assets.lbkrs.com #长桥证券
+DOMAIN,www-interactivebrokers-com.translate.goog
 DOMAIN-SUFFIX,interactivebrokers.com
-DOMAIN-SUFFIX,interactivebrokers.com.hk
 DOMAIN-SUFFIX,ibkr.com
-DOMAIN-SUFFIX,lbkrs.com
+DOMAIN-SUFFIX,ibllc.com
