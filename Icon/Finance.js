@@ -8,5 +8,7 @@
     {"name":"PayPay", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/PayPay.png"},
     {"name":"Wise", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/Wise.png"},
     {"name":"iFastBank", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/iFastBank.png"},
+    {"name":"LongBridge", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/LongBridge.png"},
+    {"name":"TNGWallet", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/TNGWallet.png"},    
  ]
 }
