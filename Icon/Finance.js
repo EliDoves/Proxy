@@ -1,7 +1,11 @@
 {
   "name":"Finance", "description":"Finance平台图标", 
   "icons":[    
-    {"name":"Component1", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/IBKR.png"},
-    {"name":"Component2", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/Shopify.png"},
+    {"name":"IBKR", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/IBKR.png"},
+    {"name":"Shopify", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/Shopify.png"},
+    {"name":"OCBC", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/OCBC.png"},
+    {"name":"HSBC", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/HSBC.png"},
+    {"name":"PayPay", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/PayPay.png"},
+    {"name":"WISE", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/WISE.png"},
  ]
 }
