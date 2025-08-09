@@ -1,3 +1,6 @@
+#长桥证券
+DOMAIN,assets.lbkrs.com 
+DOMAIN-SUFFIX,lbkrs.com
 # 富途牛牛&MooMoo
 DOMAIN,consult.futuhk.com
 DOMAIN,collect.futufin.com
@@ -40,6 +43,7 @@ DOMAIN,r.hstong.com
 DOMAIN,sensors-api.hstong.com
 DOMAIN,design.hszq8.com
 DOMAIN-KEYWORD,hstong
+
 
 
 
