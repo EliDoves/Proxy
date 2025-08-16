@@ -12,5 +12,6 @@
     {"name":"TNGWallet", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/TNGWallet.png"}, 
     {"name":"富途证券", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/富途证券.png"},  
     {"name":"Stripe", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/Stripe.png"}, 
+    {"name":"Revolut", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/Revolut.png"}, 
  ]
 }
