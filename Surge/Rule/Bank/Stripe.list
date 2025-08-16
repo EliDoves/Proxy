@@ -1,0 +1,20 @@
+# Stripe Total 19
+DOMAIN,q.stripe.com
+DOMAIN,b.stripecdn.com
+DOMAIN,images.stripeassets.com
+DOMAIN,assets.stripeassets.com
+DOMAIN,dashboard.stripe.com
+DOMAIN,js.stripe.com
+DOMAIN,m.stripe.network
+DOMAIN,q.stripe.com
+DOMAIN,cdn.givefreely.com
+DOMAIN,marketplace.stripe.com
+DOMAIN,stripe-camo.global.ssl.fastly.net
+DOMAIN,files.stripe.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,stripecdn.com
+DOMAIN-SUFFIX,stripeassets.com
+DOMAIN-SUFFIX,givefreely.com
+DOMAIN-KEYWORD,stripe
+DOMAIN-KEYWORD,stripecdn
