@@ -1,5 +1,10 @@
 # Wise
-# Total 3
-DOMAIN-SUFFIX,transferwise.com
+# Total 8
+DOMAIN,gtm.wise.com
+DOMAIN,api.moscwise.com
 DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,moscwise.com
+DOMAIN-SUFFIX,transferwise.com
 DOMAIN-KEYWORD,wise
+DOMAIN-KEYWORD,moscwise
+DOMAIN-KEYWORD,transferwise
