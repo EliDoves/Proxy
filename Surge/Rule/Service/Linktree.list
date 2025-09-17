@@ -1,0 +1,10 @@
+#Linktree
+DOMAIN,ingress.linktr.ee
+DOMAIN,link-types.production.linktr.ee
+DOMAIN,assets.production.linktr.ee
+DOMAIN,auth.linktr.ee
+DOMAIN,qa.linktr.ee
+DOMAIN,qa.ingress.linktr.ee
+DOMAIN,linktree-api.arkoselabs.com
+DOMAIN-SUFFIX,linktr.ee
+DOMAIN-KEYWORD,linktree
