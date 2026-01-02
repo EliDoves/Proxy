@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,amazon.jp
 DOMAIN-SUFFIX,amazon.nl
 DOMAIN-SUFFIX,amazon.red
 DOMAIN-SUFFIX,amazon.sg
+DOMAIN-SUFFIX,amazon.dev
 DOMAIN-SUFFIX,amazonalexavoxcon.com
 DOMAIN-SUFFIX,amazonauthorinsights.com
 DOMAIN-SUFFIX,amazonaws-china.com
@@ -93,6 +94,17 @@ DOMAIN-SUFFIX,amznl.com
 DOMAIN-SUFFIX,assoc-amazon.cn
 DOMAIN-SUFFIX,associates-amazon.com
 DOMAIN-SUFFIX,audible.com
+DOMAIN-SUFFIX,audible.co.jp
+DOMAIN-SUFFIX,audible.amazon.dev
+DOMAIN-SUFFIX,audible.ca
+DOMAIN-SUFFIX,audible.co.uk
+DOMAIN-SUFFIX,audible.de
+DOMAIN-SUFFIX,audible.fr
+DOMAIN-SUFFIX,audible.it
+DOMAIN-SUFFIX,audible.es
+DOMAIN-SUFFIX,audible.com.au
+DOMAIN-SUFFIX,audible.in
+DOMAIN-SUFFIX,audible.com.br
 DOMAIN-SUFFIX,aws
 DOMAIN-SUFFIX,aws-iot-hackathon.com
 DOMAIN-SUFFIX,awsautopilot.com
@@ -143,6 +155,7 @@ DOMAIN-SUFFIX,kindleoasis.us
 DOMAIN-SUFFIX,kindleoasisnews.com
 DOMAIN-SUFFIX,kindleproject.com
 DOMAIN-SUFFIX,media-imdb.com
+DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,primeday.cn
 DOMAIN-SUFFIX,primeday.com.cn
 DOMAIN-SUFFIX,primeday.info
