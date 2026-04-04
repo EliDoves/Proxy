@@ -1,4 +1,6 @@
 DOMAIN,cdn.usefathom.com
+DOMAIN,logs.browser-intake-us5-datadoghq.com
+DOMAIN,browser-intake-us5-datadoghq.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.site
