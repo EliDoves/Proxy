@@ -1,6 +1,10 @@
 #长桥证券
 DOMAIN,assets.lbkrs.com 
 DOMAIN-SUFFIX,lbkrs.com
+DOMAIN-SUFFIX,lbctrl.com
+DOMAIN-SUFFIX,longbridgeapp.com
+DOMAIN-SUFFIX,pbkrs.com
+
 # 富途牛牛&MooMoo
 DOMAIN,consult.futuhk.com
 DOMAIN,collect.futufin.com
@@ -20,6 +24,17 @@ DOMAIN-SUFFIX,futuhk.com
 DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,moomoo.com
 DOMAIN-KEYWORD,moomoo
+
+# 老虎证券
+DOMAIN-SUFFIX,skytigris.cn
+DOMAIN-SUFFIX,tigerfintech.com
+DOMAIN-SUFFIX,laohu8.com
+DOMAIN-SUFFIX,tigerbbs.com
+DOMAIN-SUFFIX,itigerup.com
+DOMAIN-SUFFIX,tradeup.com
+DOMAIN-SUFFIX,tigrdw.com
+DOMAIN-SUFFIX,itigergrowtha.com
+DOMAIN-SUFFIX,iotaskyt.com
 
 # uSMART盈立证券
 DOMAIN,jy-common-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com
@@ -45,7 +60,4 @@ DOMAIN,sensors-api.hstong.com
 DOMAIN,design.hszq8.com
 DOMAIN-SUFFIX,hstong.com
 DOMAIN-KEYWORD,hstong
-
-
-
 
