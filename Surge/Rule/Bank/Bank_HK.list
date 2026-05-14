@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,zajourney.com
 # 象象银行
 DOMAIN-SUFFIX,elebank.com
 DOMAIN-SUFFIX,airstarbank.com
+DOMAIN-KEYWORD,elebank
 
 # 汇立银行
 DOMAIN-SUFFIX,welab.bank
