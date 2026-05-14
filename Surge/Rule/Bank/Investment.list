@@ -17,6 +17,7 @@ DOMAIN,sdauth.moomoo.com
 DOMAIN,passport.moomoo.com
 DOMAIN-SUFFIX,futuhk8.com
 DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,moomoo.com
 DOMAIN-KEYWORD,moomoo
 
@@ -42,6 +43,7 @@ DOMAIN-KEYWORD,usmart
 DOMAIN,r.hstong.com
 DOMAIN,sensors-api.hstong.com
 DOMAIN,design.hszq8.com
+DOMAIN-SUFFIX,hstong.com
 DOMAIN-KEYWORD,hstong
 
 
