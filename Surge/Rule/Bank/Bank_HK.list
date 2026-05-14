@@ -10,6 +10,25 @@ DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,zaticdn.com
 DOMAIN-SUFFIX,zajourney.com
 
+# 象象银行
+DOMAIN-SUFFIX,elebank.com
+DOMAIN-SUFFIX,airstarbank.com
+
+# 汇立银行
+DOMAIN-SUFFIX,welab.bank
+
+# 蚂蚁银行
+DOMAIN-SUFFIX,antbank.hk
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,alipay.com
+
+# 富融银行
+DOMAIN-SUFFIX,fusionbank.com
+
+# 金融风控相关域名
+# DOMAIN-SUFFIX,online-metrix.net
+# DOMAIN,ironskyapi.seciron.com
+
 #理慧銀行
 DOMAIN,mcxymt1vz-smy-nsfkm9-07xj6-8.device.marketingcloudapis.com
 DOMAIN-SUFFIX,livibank.com
