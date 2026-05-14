@@ -1,8 +1,7 @@
 # IBKR盈透证券
-DOMAIN,download2.interactivebrokers.com
-DOMAIN,ndcdyn.interactivebrokers.com
-DOMAIN,api.ibkr.com
 DOMAIN,www-interactivebrokers-com.translate.goog
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,ibllc.com
+DOMAIN-SUFFIX,ibllc.com.cn
+DOMAIN-KEYWORD,interactivebrokers
