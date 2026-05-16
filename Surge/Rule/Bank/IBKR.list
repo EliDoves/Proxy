@@ -2,6 +2,9 @@
 DOMAIN,www-interactivebrokers-com.translate.goog
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,ibkr.com.cn
 DOMAIN-SUFFIX,ibllc.com
 DOMAIN-SUFFIX,ibllc.com.cn
 DOMAIN-KEYWORD,interactivebrokers
+DOMAIN-KEYWORD,ibkr
+DOMAIN-KEYWORD,ibllc
