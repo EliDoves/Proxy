@@ -1,10 +1,20 @@
-DOMAIN,cdn.usefathom.com
-DOMAIN,logs.browser-intake-us5-datadoghq.com
-DOMAIN,browser-intake-us5-datadoghq.com
+# ===== Claude App 进程规则 ===== # Mac版Surge用，iOS不支持
+# PROCESS-NAME,*Claude*
+# ===== Claude 主域名 =====
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.site
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudeusercontent.com
+# ===== Telemetry / 风控相关 =====
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,datadoghq.com
+DOMAIN-SUFFIX,usefathom.com
+# ===== 已知精确 telemetry =====
+DOMAIN,cdn.usefathom.com
+DOMAIN,logs.browser-intake-us5-datadoghq.com
+DOMAIN,browser-intake-us5-datadoghq.com
+# ===== Keyword 兜底 =====
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,anthropic
