@@ -1,5 +1,5 @@
 # ===== Claude App 进程规则 ===== # Mac版Surge用，iOS不支持
-# PROCESS-NAME,*Claude*
+PROCESS-NAME,*Claude*
 # ===== Claude 主域名 =====
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
