@@ -6,6 +6,7 @@ PROCESS-NAME,*Atlas*
 # Codex
 PROCESS-NAME,*Codex*
 PROCESS-NAME,codex
+# 其他域名
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,openai-api.arkoselabs.com
@@ -34,8 +35,11 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openaicom.imgix.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,turn.livekit.cloud
+# 关键字匹配
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,openai
+# IP匹配
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
+# 自治域
 IP-ASN,20473,no-resolve
