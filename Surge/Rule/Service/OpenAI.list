@@ -1,7 +1,7 @@
 # OpenAI
 # 按进程匹配，只适用于Mac版本Surge
-PROCESS-NAME,*ChatGPT*,AI
-PROCESS-NAME,*Atlas*,AI
+PROCESS-NAME,*ChatGPT*
+PROCESS-NAME,*Atlas*
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,openai-api.arkoselabs.com
