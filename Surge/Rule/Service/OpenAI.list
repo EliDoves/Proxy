@@ -1,8 +1,7 @@
 # OpenAI
 # 按进程匹配，只适用于Mac版本Surge
 # ChatGPT
-PROCESS-NAME,*ChatGPT*
-PROCESS-NAME,*Atlas*
+PROCESS-NAME,ChatGPT
 # Codex
 PROCESS-NAME,*Codex*
 PROCESS-NAME,codex
