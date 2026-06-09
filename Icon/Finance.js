@@ -14,6 +14,7 @@
     {"name":"Stripe", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/Stripe.png"}, 
     {"name":"Revolut", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/Revolut.png"}, 
     {"name":"Schwab", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/Schwab.png"},
-    {"name":"Schwab", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/Firsttrade.png"},    
+    {"name":"Firsttrade", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/Firsttrade.png"},  
+    {"name":"BBAE", "url":"https://raw.githubusercontent.com/EliDoves/Proxy/refs/heads/main/Icon/Finance/BBAE.png"},      
  ]
 }
