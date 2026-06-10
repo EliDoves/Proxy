@@ -2,10 +2,10 @@ DOMAIN,www.okx.com.cdn.cloudflare.net
 DOMAIN,wspri.okx.com.cdn.cloudflare.net
 DOMAIN,wsdexpri.okx.com.cdn.cloudflare.net
 DOMAIN,web3.okx.com.cdn.cloudflare.net
-DOMAIN,d2p7qknqur0nu9.cloudfront.net
-DOMAIN,d3f0nrrzpmxcu1.cloudfront.net
+# DOMAIN,d2p7qknqur0nu9.cloudfront.net
+# DOMAIN,d3f0nrrzpmxcu1.cloudfront.net
+# DOMAIN,d3f0nrrzpmxcu1.cloudfront.net
 DOMAIN,d1w1p0smpsoh5j.cloudfront.net
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,mokexapp.me
