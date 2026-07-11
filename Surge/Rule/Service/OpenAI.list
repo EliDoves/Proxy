@@ -2,6 +2,8 @@
 # 按进程匹配，只适用于Mac版本Surge
 # ChatGPT
 PROCESS-NAME,ChatGPT
+PROCESS-NAME,*ChatGPT*
+PROCESS-NAME,SkyComputerUseService
 # Codex
 PROCESS-NAME,*Codex*
 PROCESS-NAME,codex
