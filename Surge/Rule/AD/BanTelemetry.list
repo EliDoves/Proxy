@@ -1,4 +1,9 @@
 DOMAIN-SUFFIX,segment.io # 用户行为分析
 DOMAIN-SUFFIX,mixpanel.com # 用户行为分析
 DOMAIN-SUFFIX,amplitude.com # 用户行为分析
-DOMAIN-SUFFIX,sentry.io 
+# Sentry 错误、崩溃、性能和 Session 数据上传
+DOMAIN-SUFFIX,ingest.sentry.io
+DOMAIN-SUFFIX,ingest.us.sentry.io
+# Datadog RUM / Logs 接收端点
+DOMAIN,logs.browser-intake-us5-datadoghq.com
+DOMAIN,browser-intake-us5-datadoghq.com
