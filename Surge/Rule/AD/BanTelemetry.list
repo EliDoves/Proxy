@@ -1,6 +1,7 @@
-DOMAIN-SUFFIX,segment.io # 用户行为分析
-DOMAIN-SUFFIX,mixpanel.com # 用户行为分析
-DOMAIN-SUFFIX,amplitude.com # 用户行为分析
+# 用户行为分析
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,mixpanel.com
+DOMAIN-SUFFIX,amplitude.com
 # Sentry 错误、崩溃、性能和 Session 数据上传
 DOMAIN-SUFFIX,ingest.sentry.io
 DOMAIN-SUFFIX,ingest.us.sentry.io
