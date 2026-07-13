@@ -2,10 +2,12 @@
 # 按进程匹配，只适用于Mac版本Surge
 # ChatGPT
 PROCESS-NAME,ChatGPT
+PROCESS-NAME,ChatGPTHelper
 PROCESS-NAME,SkyComputerUseService
 # Codex
 PROCESS-NAME,*Codex*
 PROCESS-NAME,codex
+PROCESS-NAME,Codex (Service)
 # 其他域名
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
