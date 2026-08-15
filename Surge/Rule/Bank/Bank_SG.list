@@ -15,3 +15,7 @@ DOMAIN-SUFFIX,ocbc.com.mo
 DOMAIN-SUFFIX,ocbc.id
 DOMAIN-SUFFIX,ocbc.com
 DOMAIN-KEYWORD,ocbc  
+# Wotransfer系列
+DOMAIN-SUFFIX,wotransfer.com
+DOMAIN-SUFFIX,pandaremit.com
+DOMAIN-SUFFIX,starryblu.com
