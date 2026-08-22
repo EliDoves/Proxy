@@ -8,6 +8,8 @@ PROCESS-NAME,SkyComputerUseService
 PROCESS-NAME,*Codex*
 PROCESS-NAME,codex
 PROCESS-NAME,Codex (Service)
+PROCESS-NAME,Codex (Renderer)
+PROCESS-NAME,codex-code-mode-host
 # 其他域名
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
