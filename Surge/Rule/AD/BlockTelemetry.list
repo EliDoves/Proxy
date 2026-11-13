@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,amplitude.com
 # Sentry 错误、崩溃、性能和 Session 数据上传
 DOMAIN-SUFFIX,ingest.sentry.io
 DOMAIN-SUFFIX,ingest.us.sentry.io
+# 设备指纹识别
+DOMAIN,api3.siftscience.com
 # Datadog RUM / Logs 接收端点
 DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
 DOMAIN,http-intake.logs.us5.datadoghq.com
