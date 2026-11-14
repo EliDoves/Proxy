@@ -12,6 +12,8 @@ DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,weixin.com
 DOMAIN,www.libvideo.com
 DOMAIN,www.yxssp.com
+DOMAIN-SUFFIX,rednotecdn.com
+DOMAIN-SUFFIX,rnote.com
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,0123456789.com
 DOMAIN-SUFFIX,0379home.com
